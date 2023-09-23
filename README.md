@@ -1,4 +1,4 @@
-A Lush Theme for Neovim.
+Batman insparied neovim config
 ===
 
 See: http://git.io/lush.nvim for more information on Lush and a helper script
